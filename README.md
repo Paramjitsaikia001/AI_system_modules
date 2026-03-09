@@ -380,7 +380,7 @@ Demo video (3–5 minutes) explaining:
 3. API demonstration using Postman
 4. Database storage of results
 
-Link: *Add demo video link here*
+Link: *[ Click to watch the video ](https://youtu.be/VGMQfdE0Txw)*
 
 ---
 
